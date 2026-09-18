@@ -1,57 +1,63 @@
 <div align="center">
 
-# 👋 Hi, I'm Parv Khandelwal
+# PARV KHANDELWAL
 
-### `Computer Science` · `Data Analytics` · `AI/ML` · `Software Engineering`
+### `DATA SCIENCE` · `DATA ANALYTICS` · `DATA ENGINEERING`
 
-**I build data-driven applications, intelligent systems, and backend solutions.**
+**Computer Science Engineering Student @ VIT Bhopal**
 
 <br>
 
 <a href="https://github.com/parvkhandelwal30">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/parvkhandelwal30">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:parvkhandelwal30@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+actionable+insights;Building+scalable+data-driven+solutions;Exploring+real-time+data+engineering;Python+%7C+SQL+%7C+Flink+%7C+Superset">
 
 </div>
 
 ---
 
-## 🧭 Navigation
+## 🧭 Explore
 
-`[ About ]` · `[ Projects ]` · `[ Tech Stack ]` · `[ Journey ]` · `[ Contact ]`
+<details>
+<summary><b>👨‍💻 About Me</b></summary>
 
----
+<br>
 
-## 👨‍💻 About Me
+I'm a **Computer Science Engineering student at VIT Bhopal**, focused on **Data Science and Data Analytics**.
 
-I'm a Computer Science student at **VIT Bhopal University**, interested in building practical software around **data, machine learning, analytics, and backend engineering**.
+I enjoy working with real-world datasets, transforming raw data into meaningful insights, and building scalable data-driven solutions.
 
-My projects range from machine-learning applications and recommendation systems to data visualization and real-time data pipelines.
+My interests currently sit at the intersection of:
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  📊 Data Analytics       🧠 Machine Learning              │
-│  ⚡ Data Engineering     💻 Software Engineering          │
-│  🔧 Backend Development  ☁️ Cloud & DevOps               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+`Data Analytics` → `Data Engineering` → `Machine Learning` → `Software`
 
-### 🔭 Currently Exploring
+</details>
 
-* ⚡ Real-time data processing with **Kafka & Apache Flink**
-* 📊 Data analytics and visualization
-* 🧠 Machine learning applications
-* 🐍 Python-based backend systems
-* 🗄️ Database design & data pipelines
-* 💻 Data Structures & Algorithms
+<details>
+<summary><b>⚡ What I'm Working With</b></summary>
+
+<br>
+
+* 📊 Data processing & analytics
+* 🔎 Exploratory Data Analysis
+* 📈 Data visualization
+* ⚡ Real-time data pipelines
+* 🐍 Python-based data solutions
+* 🗄️ SQL & database systems
+* 🐳 Containerized development
+* 🐧 Linux-based tooling
+
+</details>
 
 ---
 
@@ -59,241 +65,359 @@ My projects range from machine-learning applications and recommendation systems 
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏏 CricStatX
+<td width="50%" valign="top">
 
-**Cricket Analytics & Intelligence Platform**
+## 🏏 CricStatX
 
-A data-driven platform designed to transform cricket data into useful analytics and insights.
+### IPL Player Analytics
 
-**Stack**
+Cricket analytics platform designed to provide **player and match insights** through ETL and PostgreSQL-based data processing.
 
-`Python` `FastAPI` `PostgreSQL` `ETL`
+**Core:**
+`Python` `ETL` `PostgreSQL` `Analytics`
 
-<br>
-
-<a href="https://github.com/parvkhandelwal30">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌱 EcoChoice AI
-
-**AI-powered recommendation platform**
-
-A recommendation system combining application development with NLP and machine-learning techniques.
-
-**Stack**
-
-`React` `FastAPI` `Python` `NLP` `ML`
+<details>
+<summary>🔍 Explore</summary>
 
 <br>
 
-<a href="https://github.com/parvkhandelwal30">
-View Repository →
-</a>
+**Focus**
+
+* Data extraction
+* Data transformation
+* Data processing
+* Player analytics
+* Match insights
+* PostgreSQL data handling
+
+</details>
 
 </td>
+
+<td width="50%" valign="top">
+
+## 🌱 EcoChoice AI
+
+### Recommendation System
+
+A recommendation system built using **FastAPI + React**, using product similarity and a Flipkart dataset.
+
+**Core:**
+`FastAPI` `React` `Python` `Machine Learning`
+
+<details>
+<summary>🔍 Explore</summary>
+
+<br>
+
+**Focus**
+
+* Product similarity
+* Recommendation logic
+* Dataset processing
+* FastAPI backend
+* React frontend
+
+</details>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 📊 Banking Data Insights
+<td width="50%" valign="top">
 
-**Data Analytics & Visualization**
+## 🛡️ Spam Filtering Module
 
-An analytics project focused on transforming banking data into interactive insights and visualizations.
+### NLP Spam Classifier
 
-**Stack**
+An NLP-based spam classification project using Python, **NLTK, TF-IDF and machine-learning models**.
 
-`Python` `SQL` `Apache Superset`
+**Core:**
+`Python` `NLTK` `TF-IDF` `ML`
 
-<br>
-
-<a href="https://github.com/parvkhandelwal30">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🛡️ SMS Spam Classifier
-
-**NLP-based spam detection**
-
-A machine-learning project for classifying SMS messages using text preprocessing and supervised learning.
-
-**Stack**
-
-`Python` `NLTK` `Pandas` `Scikit-learn`
+<details>
+<summary>🔍 Explore</summary>
 
 <br>
 
-<a href="https://github.com/parvkhandelwal30">
-View Repository →
-</a>
+**Pipeline**
+
+`Text → Preprocessing → TF-IDF → ML Model → Classification`
+
+</details>
 
 </td>
+
+<td width="50%" valign="top">
+
+## 📊 Banking Data Insights
+
+### Analytics & Visualization
+
+A data analytics project focused on analyzing and visualizing banking data using Python and data analytics libraries.
+
+**Core:**
+`Python` `Pandas` `Data Visualization`
+
+<details>
+<summary>🔍 Explore</summary>
+
+<br>
+
+**Focus**
+
+* Data analysis
+* Data cleaning
+* Visualization
+* Insight extraction
+
+</details>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🔍 Explore My Projects
+# ⚡ My Data Engineering Journey
 
-<details>
-<summary><b>🏏 CricStatX — Data Engineering & Analytics</b></summary>
-
-<br>
-
-### The idea
-
-Build a platform that processes cricket data and turns raw information into structured, queryable data for analytics.
-
-### Pipeline
+<div align="center">
 
 ```text
-Raw Data
-   │
-   ▼
-┌─────────────┐
-│ Data Ingest  │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│     ETL      │
-│ Transform    │
-│ Normalize    │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ PostgreSQL   │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│   FastAPI    │
-└──────┬──────┘
-       │
-       ▼
-   Analytics
+                 RAW DATA
+                    │
+                    ▼
+            ┌───────────────┐
+            │ DATA PROCESSING│
+            └───────┬───────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   ETL     │
+              └─────┬─────┘
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      BATCH DATA         STREAMING DATA
+                              │
+                              ▼
+                       Apache Flink
+                              │
+                              ▼
+                           MySQL
+                              │
+                              ▼
+                       Apache Superset
+                              │
+                              ▼
+                     ACTIONABLE INSIGHTS
 ```
 
-**Focus:** ETL · Data Modeling · APIs · Analytics
-
-</details>
-
-<details>
-<summary><b>🌱 EcoChoice AI — Machine Learning</b></summary>
-
-<br>
-
-A full-stack AI application combining a React frontend with a Python/FastAPI backend.
-
-**Focus areas:**
-
-* Natural Language Processing
-* Recommendation systems
-* Machine Learning
-* REST APIs
-* Full-stack integration
-
-</details>
-
-<details>
-<summary><b>🛡️ SMS Spam Classifier — NLP</b></summary>
-
-<br>
-
-Machine-learning pipeline involving:
-
-`Text Cleaning → TF-IDF → Model Training → Classification`
-
-Technologies explored include **NLTK, Pandas and Scikit-learn**.
-
-</details>
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Data & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-
-### Backend & Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-
-### Data Engineering
-
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square\&logo=apache-kafka\&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square\&logo=apache-flink\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+</div>
 
 ---
 
 # 💼 Experience
 
-### Software Engineering Intern — Data Analytics
+<details>
+<summary><b>Software Engineering Intern — Data Analytics Team</b></summary>
 
-**Veefin Solutions Pvt. Ltd.**
+### Veefin Solutions Pvt. Ltd.
 
-`May 2026 – June 2026`
+**May 14 – June 30, 2025**
 
-Worked with the Data Analytics team on:
+<br>
 
-> **Redesigning a real-time data pipeline using Apache Flink**
+Worked on:
 
-**Technologies:** `Flink` · `Kafka` · `Data Engineering` · `Real-time Processing`
+### `Redesigning Real-time Data Pipeline using Apache Flink`
+
+Key areas:
+
+* Built and optimized scalable, fault-tolerant streaming data pipelines
+* Worked with **Apache Flink, Docker and MySQL**
+* Used **Apache Superset** for data visualization and pipeline/system monitoring
+* Applied Linux-based tooling and scripting for system operations and performance tuning
+
+**Technologies**
+
+`Apache Flink` `Docker` `MySQL` `Apache Superset` `Linux`
+
+</details>
+
+---
+
+# 🛠️ Technical Stack
+
+### 🐍 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+### 📊 Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+`Data Cleaning` · `EDA` · `Data Visualization`
+
+### ⚡ Data Engineering
+
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat-square\&logo=apacheflink\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Superset](https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square\&logo=apachesuperset\&logoColor=white)
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### 🔧 Tools
+
+`Git` · `Linux` · `Excel`
 
 ---
 
 # 🎓 Education
 
-### VIT Bhopal University
+## VIT Bhopal University
 
-**Bachelor of Technology — Computer Science**
+**Bachelor's in Computer Science Engineering**
+
+`2023 — 2027`
+
+### Relevant Coursework
+
+<details>
+<summary>📚 View Coursework</summary>
+
+<br>
+
+`Data Structures & Algorithms`
+
+`Database Management Systems`
+
+`Foundation of Data Science`
+
+`Design & Analysis of Algorithms`
+
+`Computer Architecture & Organisation`
+
+`Mobile Application Development`
+
+</details>
 
 ---
 
 # 📜 Certifications
 
-* 🐍 Python Programming — Kaggle
-* 🐼 Pandas — Kaggle
-* 🤖 Machine Learning using Python — TechBairn
+| Certification                       | Platform   |
+| ----------------------------------- | ---------- |
+| 🐍 Python Programming               | Kaggle     |
+| 🐼 Pandas                           | Kaggle     |
+| 📊 Data Visualization               | Kaggle     |
+| 🤖 Machine Learning using Python    | TechBairn  |
+| 📈 Data Science with Python Program | Finlatics  |
+| ☕ JAVA Programming                  | —          |
+| 🗄️ SQL (Advanced)                  | HackerRank |
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=
+<img src="https://github-readme-stats.vercel.app/api?username=parvkhandelwal30&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvkhandelwal30&layout=compact&hide_border=true" height="170">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=parvkhandelwal30&hide_border=true">
+
+</div>
+
+---
+
+# 🧠 Areas I'm Exploring
+
+<div align="center">
+
+```text
+                 DATA SCIENCE
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+      ANALYTICS                MACHINE
+          │                    LEARNING
+          │                       │
+          ▼                       ▼
+    VISUALIZATION             NLP / ML
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+                DATA ENGINEERING
+                      │
+              ┌───────┴───────┐
+              ▼               ▼
+           BATCH           REAL-TIME
+                             │
+                             ▼
+                         APACHE FLINK
+```
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+```text
+[████████████████████░░] Data Analytics
+
+[██████████████████░░░░] Python & SQL
+
+[███████████████░░░░░░░] Data Engineering
+
+[██████████████░░░░░░░░] Machine Learning
+
+[████████████░░░░░░░░░░] Software Engineering
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Have a dataset, engineering problem, or interesting idea?
+
+**Let's build something with data.**
+
+<br>
+
+<a href="https://github.com/parvkhandelwal30">
+<img src="https://img.shields.io/badge/Explore%20My%20Projects-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/parvkhandelwal30">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:parvkhandelwal30@gmail.com">
+<img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+`Analyze → Build → Learn → Iterate`
+
+</div>
